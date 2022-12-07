@@ -17,7 +17,7 @@ I'm Steven Lance. I am a Software Engineering Curriculum Designer currently at [
 
 ### 📈 Stats
 
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenjlance&show_icons=true&theme=radical)
+![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenjlance&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevenjlance&theme=tokyonight)]
 
 ---
