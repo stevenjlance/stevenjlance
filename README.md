@@ -18,10 +18,8 @@ I'm Steven Lance. I am a Software Engineering Curriculum Designer currently at [
 ### 📈 Stats
 
 ![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenjlance&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevenjlance&theme=tokyonight)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevenjlance&theme=tokyonight)
 
 ---
 ### 📫 Let's Connect
 <a href="https://www.linkedin.com/in/steven-lance-64a68b51/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<!--
-**braddefauw/braddefauw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
