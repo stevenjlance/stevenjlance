@@ -14,10 +14,5 @@ I'm Steven Lance. I am a Computer Science Curriculum Designer currently at [Rize
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |![Material Design](https://img.shields.io/badge/material%20design-757575?style=for-the-badge&logo=material%20design&logoColor=white) | ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) | ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)|
 
 ---
-
-### 📈 Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stevenjlance&theme=dark)](https://git.io/streak-stats)
----
 ### 📫 Let's Connect
 <a href="https://www.linkedin.com/in/steven-lance-64a68b51/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
