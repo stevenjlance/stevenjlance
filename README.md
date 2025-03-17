@@ -1,7 +1,7 @@
 ## Hi, 👋 I'm Steven
 #### I'm a Software Engineer Curriculum Designer
 
-I'm Steven Lance. I am a Computer Science Curriculum Designer currently at [Rize]([https://www.multiverse.io/en-US](https://rize.education/)) helping to train the next generation of software engineers . I currently create curriculum for programs that utilize: JavaScript, Node.js, Express, React, Python, SQL, and Sequelize.
+I'm Steven Lance. I am a Computer Science Curriculum Designer currently at [Rize]([https://www.multiverse.io/en-US](https://rize.education/)) helping to train the next generation of software engineers. I currently create curriculum for programs that utilize: JavaScript, Node.js, Express, React, Python, SQL, and Sequelize.
 
 ---
 ### 🔧 Technologies & Tools
