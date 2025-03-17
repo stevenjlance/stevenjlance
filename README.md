@@ -17,8 +17,7 @@ I'm Steven Lance. I am a Computer Science Curriculum Designer currently at [Rize
 
 ### 📈 Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevenjlance&theme=tokyonight)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stevenjlance&theme=dark)](https://git.io/streak-stats)
 ---
 ### 📫 Let's Connect
 <a href="https://www.linkedin.com/in/steven-lance-64a68b51/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
